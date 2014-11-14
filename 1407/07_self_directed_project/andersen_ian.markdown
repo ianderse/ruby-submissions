@@ -27,5 +27,6 @@ General population looking for mental health assistance.
 - http://catalog.data.gov/dataset/national-and-state-estimates-on-prevalence-of-behavioral-health-conditions
 - http://catalog.data.gov/dataset/designated-health-professional-shortage-areas
 * Any other integrations?
+- http://store.samhsa.gov/developer
 
 My other ideas are just offshoots of this project and/or just trimming it down some.  I would love to work on something related to this, and I am open to suggestions, but I feel passionate about the pain points in the mental health field and feel this could contribute to the community.  As such, I have put up a placeholder rails project on a digital ocean droplet and registered the domain name: [Open Therapist Directory](http://www.opentherapistdirectory.com/)
