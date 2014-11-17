@@ -11,6 +11,9 @@ This project will provide a place for therapists and clients to connect for no c
 Provides clients and therapists with a platform to connect.  Also provides resources for homeless/low income populations to find mental health resources.  Possibly connects homeless population to therapists willing to donate their time for pro-bono work.  Perhaps it will also provide a google map with locations marked for therapists around a given location.
 -I0: Providing homeless/low-income populations with resources based on this data set: http://store.samhsa.gov/developer
 -I1: Better search/results based on filtering (ie. by state, substance abuse treatment, etc.)
+-I1.1: Ability to print out a PDF listing of all nearby treatment centers.
+-I1.2: Ability to text a number and get a listing of nearby treatment centers (inteded for community members to help provide resources to those in need quickly).
+-I1.3: Mobile friendly.
 -I2: Set up therapist listing portion of page.  Ability to add yourself as a therapist, therapists need to provide proof of education as a picture upload.
 -I3: Ability to filter therapist listings by state,speciality,etc.
 -I4: Enter your location on a map and show nearby therapists.
